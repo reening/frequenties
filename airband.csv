@@ -126,6 +126,8 @@ frequency,callsign,description
 379.750,De Kooy Tower,UHF
 121.730,De Kooy Ground,
 133.010,De Kooy Information,
+123.305,De Kooy Final,
+359.100,De Kooy Final,UHF
 134.530,Lelystad Arrival,Primary
 120.830,Lelystad Arrival,
 135.180,Lelystad Tower,
@@ -139,3 +141,36 @@ frequency,callsign,description
 362.875,Rotterdam Tower,UHF
 122.180,Rotterdam Delivery,
 128.565,Rotterdam Information,
+129.930,Deelen Tower,Primary
+312.400,Deelen Tower,Primary UHF
+257.800,Deelen Tower,UHF
+125.330,Gilze-Rijen Tower,
+277.350,Gilze-Rijen Tower,UHF
+121.680,Gilze-Rijen Ground,
+278.125,Gilze-Rijen Ground,UHF
+123.580,Gilze Arrival,
+281.475,Gilze Arrival,UHF
+128.990,Gilze Monitor,
+120.705,Leeuwarden Tower,
+344.850,Leeuwarden Tower,UHF
+362.525,Leeuwarden Ground,UHF
+132.030,Leeuwarden Arrival,
+339.700,Leeuwarden Arrival,UHF
+136.080,Volkel Tower,
+291.100,Volkel Tower,UHF
+386.775,Volkel Ground,UHF
+122.100,Volkel Arrival,
+291.200,Volkel Arrival,
+120.430,Woensdrecht Tower,
+339.000,Woensdrecht Tower,UHF
+121.680,Woensdrecht Ground,
+356.875,Woensdrecht Ground,
+123.580,Woensdrecht Arrival,
+370.650,Woensdrecht Arrival,UHF
+128.990,Woensdrecht Monitor,
+132.030,RAPCON North,
+284.475,RAPCON North,UHF
+123.180,RAPCON South,
+388.525,RAPCON South,UHF
+123.580,RAPCON West,
+399.725,RAPCON West,UHF
