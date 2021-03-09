@@ -123,4 +123,9 @@ frequency,callsign,description
 379.750,De Kooy Tower,UHF
 121.730,De Kooy Ground,
 133.010,De Kooy Information,
-
+134.530,Lelystad Arrival,Primary
+120.830,Lelystad Arrival,
+135.180,Lelystad Tower,
+123.680,Lelystad Delivery,
+123.830,Lelystad Delivery/Tower,Backup
+120.730,Lelystad Information,
