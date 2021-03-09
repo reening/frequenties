@@ -1,6 +1,7 @@
 frequency,callsign,description
-121.500,,Emergency
-243.000,,Emergency
+121.500,,Guard
+243.000,,Guard
+119.705,,Regional Guard
 122.255,,Ballonvaren
 122.480,,Zweefvliegen (De Voorst/Hilversum/Venlo/Woensdrecht)
 122.505,,Zweefvliegen (Haamstede/Hoogeveen/Salland/Veendam)
@@ -18,11 +19,11 @@ frequency,callsign,description
 126.680,Schiphol Arrival,
 118.105,Schiphol Tower,Zwanenburgbaan
 118.280,Schiphol Tower,Polderbaan
-119.230,Schiphol Tower,Aalsmeerbaan Buitenveldertbaan Oostbaan
+119.230,Schiphol Tower,Aalsmeerbaan/Buitenveldertbaan/Oostbaan
 135.110,Schiphol Tower,Kaagbaan
 362.875,Schiphol Tower,UHF
 121.705,Schiphol Ground,Kaagbaan
-121.805,Schiphol Ground,Aalsmeerbaan Buitenveldertbaan Oostbaan
+121.805,Schiphol Ground,Aalsmeerbaan/Buitenveldertbaan/Oostbaan
 121.905,Schiphol Ground,Zwanenburgbaan
 121.560,Schiphol Ground,Polderbaan
 121.590,Schiphol Ground,
@@ -82,3 +83,13 @@ frequency,callsign,description
 338.875,Maastricht Radar,MUAC Lux/Olno Sector UHF
 342.650,Maastricht Radar,MUAC Münster/Ruhr Sector UHF
 359.450,Maastricht Radar,MUAC Delta Sector UHF
+118.355,Ameland Radio,
+119.655,Drachten Radio,
+127.355,Hoogeveen Radio,
+131.030,Hilversum Radio,
+119.255,Midden-Zeeland Radio,
+118.330,Oostwold Radio,
+120.655,Seppe Radio,
+121.005,Teuge Radio,
+119.955,Twente Radio,
+119.305,Texel Radio,
