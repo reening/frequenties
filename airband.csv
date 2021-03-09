@@ -1,12 +1,26 @@
 frequency,callsign,description
-119.055,Schiphol Approach/Departure,
+121.500,,Emergency
+243.000,,Emergency
+122.255,,Ballonvaren
+122.480,,Zweefvliegen (De Voorst/Hilversum/Venlo/Woensdrecht)
+122.505,,Zweefvliegen (Haamstede/Hoogeveen/Salland/Veendam)
+123.355,,Zweefvliegen (Axel/De Peel/Deelen/Langeveld/Leeuwarden/Malden/Volkel)
+123.380,,Zweefvliegen (Gilze-Rijen/Noordkop/Terlet)
+123.505,,Zweefvliegen (Castricum/Midden-Zeeland/Schinveld)
+129.980,,Zweefvliegen (Nistelrode/Soesterberg)
+130.130,,Zweefvliegen (Biddinghuizen/Terlet)
+123.430,,MLA en ULA
+119.055,Schiphol Approach/Departure,Primary
 121.205,Schiphol Approach/Departure,
+312.375,Schiphol Approach/Departure,UHF
+131.155,Schiphol Approach,
 118.405,Schiphol Arrival,
 126.680,Schiphol Arrival,
 118.105,Schiphol Tower,Zwanenburgbaan
 118.280,Schiphol Tower,Polderbaan
 119.230,Schiphol Tower,Aalsmeerbaan Buitenveldertbaan Oostbaan
 135.110,Schiphol Tower,Kaagbaan
+362.875,Schiphol Tower,UHF
 121.705,Schiphol Ground,Kaagbaan
 121.805,Schiphol Ground,Aalsmeerbaan Buitenveldertbaan Oostbaan
 121.905,Schiphol Ground,Zwanenburgbaan
@@ -17,7 +31,7 @@ frequency,callsign,description
 132.980,Schiphol Arrival Information,
 108.400,Schiphol Arrival Information,SPL VOR
 122.205,Schiphol Departure Information,
-131.355,ATC Operational Information Schiphol,
+131.355,Schiphol Operational Information,
 119.175,Amsterdam Information,Amsterdam Information Noordzee
 124.300,Amsterdam Information,Amsterdam Information West
 136.650,Amsterdam Information,Amsterdam Information Kanaal
