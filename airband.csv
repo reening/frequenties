@@ -1,17 +1,39 @@
 frequency,callsign,description
+119.055,Schiphol Approach/Departure,
+121.205,Schiphol Approach/Departure,
+118.405,Schiphol Arrival,
+126.680,Schiphol Arrival,
+118.105,Schiphol Tower,Zwanenburgbaan
+118.280,Schiphol Tower,Polderbaan
+119.230,Schiphol Tower,Aalsmeerbaan Buitenveldertbaan Oostbaan
+135.110,Schiphol Tower,Kaagbaan
+121.705,Schiphol Ground,Kaagbaan
+121.805,Schiphol Ground,Aalsmeerbaan Buitenveldertbaan Oostbaan
+121.905,Schiphol Ground,Zwanenburgbaan
+121.560,Schiphol Ground,Polderbaan
+121.590,Schiphol Ground,
+121.980,Schiphol Delivery,
+121.655,Schiphol Planner,
+132.980,Schiphol Arrival Information,
+108.400,Schiphol Arrival Information,SPL VOR
+122.205,Schiphol Departure Information,
+131.355,ATC Operational Information Schiphol,
 119.175,Amsterdam Information,Amsterdam Information Noordzee
 124.300,Amsterdam Information,Amsterdam Information West
-136.650,Amsterdam Information,Amsterdam Information Kanaal 
+136.650,Amsterdam Information,Amsterdam Information Kanaal
 369.625,Amsterdam Information,Amsterdam Information Kanaal UHF
 123.705,Amsterdam Radar,Amsterdam CTA West
 123.850,Amsterdam Radar,Amsterdam CTA South
 124.880,Amsterdam Radar,Amsterdam CTA East
-125.750,Amsterdam Radar,Amsterdam CTA West 
+125.750,Amsterdam Radar,Amsterdam CTA West
 128.580,Amsterdam Radar,Amsterdam CTA East
 130.955,Amsterdam Radar,Amsterdam CTA South
 134.375,Amsterdam Radar,Amsterdam CTA East
 276.725,Amsterdam Radar,Amsterdam CTA East UHF
 387.600,Amsterdam Radar,Amsterdam CTA South/West UHF
+118.805,Amsterdam Radar,Amsterdam ACC SUGOL (Kanaal)
+120.555,Amsterdam Radar,Amsterdam ACC ARTIP (Lelystad)
+127.780,Amsterdam Radar,Amsterdam ACC RIVER (Rotterdam)
 132.350,Dutch MIL Information,Dutch MIL Information
 341.600,Dutch MIL Information,Dutch MIL Information UHF
 125.930,Dutch MIL Radar,Nieuw Milligen South
