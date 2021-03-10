@@ -33,6 +33,16 @@ frequency,callsign,description
 108.400,Schiphol Arrival Information,SPL VOR
 122.205,Schiphol Departure Information,
 131.355,Schiphol Operational Information,
+121.305,Snowdesk,Schiphol De-icing
+121.605,Padcontrol,Schiphol De-icing
+131.775,Gatedesk,Schiphol De-icing
+131.410,dnata Amsterdam,Ground handling
+131.560,Swissport Amsterdam,Ground handling
+131.580,Aviapartner Amsterdam,Ground handling
+131.805,Menzies Ops,Ground handling
+131.855,dnata cargo Amsterdam,Ground handling
+131.605,Aviapartner Amsterdam,Ground handling Schiphol-Oost
+131.630,Jet Aviation Amsterdam,Ground handling Schiphol-Oost
 119.175,Amsterdam Information,Amsterdam Information Noordzee
 124.300,Amsterdam Information,Amsterdam Information West
 136.650,Amsterdam Information,Amsterdam Information Kanaal
